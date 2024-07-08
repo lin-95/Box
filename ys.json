@@ -25,7 +25,7 @@
 {"key":"南国影源","name":"南国影源(切)","type":1,"api":"http://api.nguonphim.tv/api.php/provide/vod/","searchable":1,"quickSearch":1}
 {"key":"飘花影院","name":"飘花影院","type":1,"api":"https://www.ahjiuman.com/api.php/provide/vod/","searchable":1,"quickSearch":1},   
 {"key":"华为资源","name":"华为资源","type":1,"api":"https://hw8.live/api.php/provide/vod/","searchable":1,"quickSearch":1},   
-{"key":"❤️91资源❤️","name":"❤️91资源❤️","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1},   
+{"key":"91资源","name":"91资源","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1},   
 {"key":"最大资源","name":"最大资源","type":1,"api":"https://api.zuidapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},   
 {"key":"在线之家2","name":"在线之家2","type":1,"api":"https://zxzja.com/api.php/provide/vod/","searchable":1,"quickSearch":1},   
 {"key":"低端影视1","name":"低端影视1","type":1,"api":"https://ddys.pro/api.php/provide/vod/","searchable":1,"quickSearch":1},   
@@ -47,10 +47,10 @@
 {"key":"虎牙资源","name":"虎牙资源","type":1,"api":"https://www.huyaapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},   
 {"key":"映迷资源","name":"映迷资源","type":1,"api":"https://www.inmi.app/api.php/provide/vod/","searchable":1,"quickSearch":1},   
 {"key":"闪电资源","name":"闪电资源","type":1,"api":"https://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},   
-{"key":"❤️乐播资源❤️","name":"❤️乐播资源❤️","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":1,"quickSearch":1},   
-{"key":"❤️老鸭资源❤️","name":"❤️老鸭资源❤️","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},   
-{"key":"❤️探探资源❤️","name":"❤️探探资源❤️","type":1,"api":"https://apittzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},   
-{"key":"❤️易看资源❤️","name":"❤️易看资源❤️","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1}
+{"key":"乐播资源","name":"乐播资源","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":1,"quickSearch":1},   
+{"key":"老鸭资源","name":"老鸭资源","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},   
+{"key":"探探资源","name":"探探资源","type":1,"api":"https://apittzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},   
+{"key":"易看资源","name":"易看资源","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1}
 ],
 "lives":[{}],
 "parses":[
