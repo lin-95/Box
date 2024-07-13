@@ -9,7 +9,6 @@
       "api": "https://hw8.live/api.php/provide/vod/",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://github.com/one.json"
     },
     {
       "key": "卧龙资源",
