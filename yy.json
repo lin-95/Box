@@ -1,6 +1,5 @@
 
 {
-  "spider": "https://github.com/custom_spider.jar",
   "sites": [
     {
       "key": "华为资源",
@@ -17,7 +16,6 @@
       "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://github.com/two.json"
     },
     {
       "key": "360资源",
@@ -26,8 +24,6 @@
       "api": "https://360zy.com/api.php/provide/vod/",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://github.com/extend.json",
-      "jar": "https://github.com/extend.jar"
     }
   ]
 }
