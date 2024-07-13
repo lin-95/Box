@@ -12,10 +12,10 @@
       "ext": "https://github.com/one.json"
     },
     {
-      "key": "三六零资源",
-      "name": "三六零资源",
-      "type": 3,
-      "api": "https://360zy.com/api.php/provide/vod/",
+      "key": "卧龙🐉资源",
+      "name": "卧龙🐉资源",
+      "type": 1,
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
       "searchable": 1,
       "changeable": 1,
       "ext": "https://github.com/two.json"
