@@ -3,17 +3,17 @@
   "spider": "https://github.com/custom_spider.jar",
   "sites": [
     {
-      "key": "one",
-      "name": "One",
-      "type": 3,
-      "api": "csp_Csp",
+      "key": "华为资源",
+      "name": "华为资源",
+      "type": 1,
+      "api": "https://hw8.live/api.php/provide/vod/",
       "searchable": 1,
       "changeable": 1,
       "ext": "https://github.com/one.json"
     },
     {
-      "key": "卧龙🐉资源",
-      "name": "卧龙🐉资源",
+      "key": "卧龙资源",
+      "name": "卧龙资源",
       "type": 1,
       "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
       "searchable": 1,
