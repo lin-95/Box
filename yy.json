@@ -1,14 +1,15 @@
+
 {
   "spider": "https://github.com/custom_spider.jar",
   "sites": [
     {
-      "key": "360资源",
-      "name": "360资源",
+      "key": "one",
+      "name": "One",
       "type": 3,
-      "api": "https://360zy.com/api.php/provide/vod/",
+      "api": "csp_Csp",
       "searchable": 1,
       "changeable": 1,
-      "ext":             "https://360zy.com/api.php/provide/vod/"
+      "ext": "https://github.com/one.json"
     },
     {
       "key": "two",
@@ -20,10 +21,10 @@
       "ext": "https://github.com/two.json"
     },
     {
-      "key": "extend",
-      "name": "Extend",
+      "key": "360资源",
+      "name": "360资源",
       "type": 3,
-      "api": "csp_Csp",
+      "api": "https://360zy.com/api.php/provide/vod/",
       "searchable": 1,
       "changeable": 1,
       "ext": "https://github.com/extend.json",
