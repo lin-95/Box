@@ -12,10 +12,10 @@
       "ext": "https://github.com/one.json"
     },
     {
-      "key": "two",
-      "name": "Two",
+      "key": "三六零资源",
+      "name": "三六零资源",
       "type": 3,
-      "api": "csp_Csp",
+      "api": "https://360zy.com/api.php/provide/vod/",
       "searchable": 1,
       "changeable": 1,
       "ext": "https://github.com/two.json"
