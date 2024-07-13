@@ -2,8 +2,8 @@
   "spider": "https://github.com/custom_spider.jar",
   "sites": [
     {
-      "key": "one",
-      "name": "One",
+      "key": "360资源",
+      "name": "360资源",
       "type": 3,
       "api": "csp_Csp",
       "searchable": 1,
