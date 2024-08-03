@@ -6,7 +6,7 @@
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod/",
       "searchable": 1,
-      "changeable": 1,
+      "changeable": 1
     }
   ],
   "parses": [
