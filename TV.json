@@ -778,22 +778,22 @@
     ],
     "parses": [
         {
-            "name": "26db",
+            "name": "解①析",
             "type": 0,
             "url": "http://vip.26db.cn/g/?url="
         },
         {
-            "name": "解①析",
+            "name": "解②析",
             "type": 0,
             "url": "https://jx.jsonplayer.com/player/?url="
         },
         {
-            "name": "解②析",
+            "name": "解③析",
             "type": 0,
             "url": "https://jx.m3u8.pw/?url="
         },
         {
-            "name": "解③析",
+            "name": "解④析",
             "type": 1,
             "url": "http://122.228.84.103:7777/api/?key=o9fQb0Jvz0qZzY19Jq&url=",
             "ext": {
@@ -825,7 +825,7 @@
             }
         },
         {
-            "name": "解④析",
+            "name": "解⑤析",
             "type": 1,
             "url": "http://pandown.pro/app/kkdy.php?url=",
             "ext": {
@@ -852,12 +852,12 @@
             }
         },
         {
-            "name": "解⑤析",
+            "name": "解⑥析",
             "type": 0,
             "url": "https://jx.777jiexi.com/player/?url="
         },
         {
-            "name": "解⑥析",
+            "name": "解⑦析",
             "type": 0,
             "url": "https://jx.xmflv.com/?url="
         }
