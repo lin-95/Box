@@ -1,7 +1,5 @@
 {
   "sites": [
-    {"key":"360资源","name":"360资源","type":1,"api":"https://360zy.com/api.php/provide/vod","searchable":1,"quickSearch":1}
-  ],
  {"key": "qysp","name": "奇艺┃视频","type": 3,"api": "MJS_qysp"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/js/奇艺视频.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
     {"key": "txsp","name": "腾讯┃视频","type": 3,"api": "MJS_txsp"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/js/腾讯视频.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
     {"key": "yksp","name": "优酷┃视频","type": 3,"api": "MJS_yksp"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/js/优酷视频.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
