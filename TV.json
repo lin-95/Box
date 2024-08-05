@@ -1,16 +1,6 @@
 {
     "spider": "https://gitee.com/zbyzylj/66/raw/6/mb.jar;md5;c84c36278bd8bc95a63449a128074be0",
   "sites": [
-    {
-      "key": "csp_LocalFile",
-      "name": "自用线路仅供参考学习",
-      "type": 3,
-      "api": "csp_LocalFile",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "type_flag": 0
-    },
 		{"key": "qysp","name": "奇艺┃视频","type": 3,"api": "MJS_qysp"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/js/奇艺视频.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
     {"key": "txsp","name": "腾讯┃视频","type": 3,"api": "MJS_txsp"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/js/腾讯视频.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
     {"key": "yksp","name": "优酷┃视频","type": 3,"api": "MJS_yksp"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/js/优酷视频.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
