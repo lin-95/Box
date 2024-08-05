@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "csp_LocalFile",
-      "name": "自用线路┃仅供参考学习",
+      "name": "自用线路仅供参考学习",
       "type": 3,
       "api": "csp_LocalFile",
       "searchable": 0,
