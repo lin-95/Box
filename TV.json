@@ -2,7 +2,13 @@
   "sites": [
     {"key":"360资源","name":"360资源","type":1,"api":"https://360zy.com/api.php/provide/vod","searchable":1,"quickSearch":1}
   ],
-  "parses": [
+ {"key": "qysp","name": "奇艺┃视频","type": 3,"api": "MJS_qysp"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/js/奇艺视频.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
+    {"key": "txsp","name": "腾讯┃视频","type": 3,"api": "MJS_txsp"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/js/腾讯视频.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
+    {"key": "yksp","name": "优酷┃视频","type": 3,"api": "MJS_yksp"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/js/优酷视频.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
+    {"key": "mgsp","name": "芒果┃视频","type": 3,"api": "MJS_mgsp"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/js/芒果视频.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
+    {"key": "sgys","name": "搜狗┃视频","type": 3,"api": "MJS_sgys"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/js/搜狗视频.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
+    {"key": "ygcl","name": "影港┃磁力","type": 3,"api": "csp_XYQHiker"   ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/xp/影港磁力.json","jar": "http://m1839732.cf.caoni.ru/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"},
+"parses": [
     {
       "name": "观音解析",
       "type": 0,
